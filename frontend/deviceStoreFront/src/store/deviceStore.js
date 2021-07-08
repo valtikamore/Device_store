@@ -15,7 +15,7 @@ export default class DeviceStore {
             {id:4,name:'Asus'},
         ]
         this._devices = [
-            {id:1,name:'iphone 12', price:1222,rating:5,img:''},
+            {id:1,name:'iphone 12', price:1222,rating:5,img:`https://via.placeholder.com/300.png/09f/fff`},
             {id:2,name:'iphone 12', price:1222,rating:5,img:''},
             {id:3,name:'iphone 12', price:1222,rating:5,img:''},
             {id:4,name:'iphone 12', price:1222,rating:5,img:''},
